@@ -1,3 +1,4 @@
+import Blogs from "./components/Blogs/Blogs"
 
 
 function App() {
@@ -5,7 +6,7 @@ function App() {
 
   return (
     <>
-     <h1 className="text-xl bg-red-400">Hello world</h1>
+     <Blogs/>
     </>
   )
 }

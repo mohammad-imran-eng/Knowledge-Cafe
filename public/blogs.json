@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.imgur.com/vJ9H4ZN.jpeg",
+      "title": "The Enigma of Time",
+      "author": "Jane Doe",
+      "author_img": "https://example.com/authors/jane_doe.jpg",
+      "posted_date": "2024-11-01",
+      "reading_time": "8 min",
+      "hashtags": ["#time", "#philosophy", "#fiction"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.imgur.com/hoiPLlm.jpeg",
+      "title": "Cooking Made Simple",
+      "author": "John Smith",
+      "author_img": "https://example.com/authors/john_smith.jpg",
+      "posted_date": "2024-10-25",
+      "reading_time": "5 min",
+      "hashtags": ["#cooking", "#recipes", "#easymeals"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.imgur.com/KjtYXcU.jpeg",
+      "title": "Adventures in Coding",
+      "author": "Alice Johnson",
+      "author_img": "https://example.com/authors/alice_johnson.jpg",
+      "posted_date": "2024-11-15",
+      "reading_time": "12 min",
+      "hashtags": ["#coding", "#tech", "#programming"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.imgur.com/KjtYXcU.jpeg",
+      "title": "The Art of Mindfulness",
+      "author": "Emily Carter",
+      "author_img": "https://example.com/authors/emily_carter.jpg",
+      "posted_date": "2024-10-30",
+      "reading_time": "7 min",
+      "hashtags": ["#mindfulness", "#wellness", "#selfcare"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.imgur.com/pCLgFMx.jpeg",
+      "title": "Unveiling the Cosmos",
+      "author": "Robert Lee",
+      "author_img": "https://example.com/authors/robert_lee.jpg",
+      "posted_date": "2024-11-10",
+      "reading_time": "10 min",
+      "hashtags": ["#space", "#science", "#astronomy"]
+    }
+  ]
+  
