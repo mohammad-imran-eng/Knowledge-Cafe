@@ -1,0 +1,7 @@
+.time-color {
+        color: rgba(17, 17, 17, 0.6)
+}
+.mark-read {
+    color: blue;
+    text-decoration: underline;
+}

@@ -1,4 +1,7 @@
 import Blogs from "./components/Blogs/Blogs"
+import Bookmarks from "./components/Bookmarks/Bookmarks"
+import Header from "./components/Header/Header"
+
 
 
 function App() {
@@ -6,7 +9,11 @@ function App() {
 
   return (
     <>
-     <Blogs/>
+     <Header />
+     <div className="md:flex w-[1200px] mx-auto">
+      <Blogs />
+      <Bookmarks />
+     </div>
     </>
   )
 }

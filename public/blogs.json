@@ -1,52 +1,52 @@
 [
     {
       "id": 1,
-      "cover": "https://i.imgur.com/vJ9H4ZN.jpeg",
+      "cover": "https://i.ibb.co.com/WFLMNDY/pexels-andreaedavis-3653849.jpg",
       "title": "The Enigma of Time",
       "author": "Jane Doe",
-      "author_img": "https://example.com/authors/jane_doe.jpg",
+      "author_img": "https://i.ibb.co.com/TTxP79H/leong-ying-7107120-640.png",
       "posted_date": "2024-11-01",
-      "reading_time": "8 min",
+      "reading_time": "8 min read",
       "hashtags": ["#time", "#philosophy", "#fiction"]
     },
     {
       "id": 2,
-      "cover": "https://i.imgur.com/hoiPLlm.jpeg",
+      "cover": "https://i.ibb.co.com/3fn5BHv/971.jpg",
       "title": "Cooking Made Simple",
       "author": "John Smith",
-      "author_img": "https://example.com/authors/john_smith.jpg",
+      "author_img": "https://i.ibb.co.com/Rv1Jg05/writer-8925722-640.png",
       "posted_date": "2024-10-25",
-      "reading_time": "5 min",
+      "reading_time": "5 min read",
       "hashtags": ["#cooking", "#recipes", "#easymeals"]
     },
     {
       "id": 3,
-      "cover": "https://i.imgur.com/KjtYXcU.jpeg",
+      "cover": "https://i.ibb.co.com/16PF1JG/Blogpost.jpg",
       "title": "Adventures in Coding",
       "author": "Alice Johnson",
-      "author_img": "https://example.com/authors/alice_johnson.jpg",
+      "author_img": "https://i.ibb.co.com/JC6pQ8D/entrepreneur-593358-640.jpg",
       "posted_date": "2024-11-15",
-      "reading_time": "12 min",
+      "reading_time": "12 min read",
       "hashtags": ["#coding", "#tech", "#programming"]
     },
     {
       "id": 4,
-      "cover": "https://i.imgur.com/KjtYXcU.jpeg",
+      "cover": "https://i.ibb.co.com/hFgQvxg/pexels-pixabay-265667.jpg",
       "title": "The Art of Mindfulness",
       "author": "Emily Carter",
-      "author_img": "https://example.com/authors/emily_carter.jpg",
+      "author_img": "https://i.ibb.co.com/grTd2tx/ai-generated-8663299-640.png",
       "posted_date": "2024-10-30",
-      "reading_time": "7 min",
+      "reading_time": "7 min read",
       "hashtags": ["#mindfulness", "#wellness", "#selfcare"]
     },
     {
       "id": 5,
-      "cover": "https://i.imgur.com/pCLgFMx.jpeg",
+      "cover": "https://i.ibb.co.com/R4hZ3M0/rear-view-programmer-working-all-night-long-1.jpg",
       "title": "Unveiling the Cosmos",
       "author": "Robert Lee",
-      "author_img": "https://example.com/authors/robert_lee.jpg",
+      "author_img": "https://i.ibb.co.com/72gBRf9/employee-4604126-640.jpg",
       "posted_date": "2024-11-10",
-      "reading_time": "10 min",
+      "reading_time": "10 min read",
       "hashtags": ["#space", "#science", "#astronomy"]
     }
   ]
