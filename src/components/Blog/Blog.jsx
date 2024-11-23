@@ -1,8 +1,8 @@
 import PropTypes from 'prop-types';
 import './Blog.css'
 
-const Blog = ({blog,handleAddToBookmark}) => {
-    const {title,cover,author_img,author,posted_date,reading_time} = blog;
+const Blog = ({blog,handleAddToBookmark,handleMarkAsRead}) => {
+    const {title,cover,author_img,author,posted_date,reading_time,reading_time_val,id} = blog;
     
     return (
         <div>
@@ -32,7 +32,7 @@ const Blog = ({blog,handleAddToBookmark}) => {
             </div>
             <h2 className='text-4xl font-bold text-[#11111] my-4'>{title}</h2>
             <p className='font-medium time-color mb-3'>#beginners #programming</p>
-            <a href="#" className='mark-read'>Mark as read</a>
+            <a onClick={()=>handleMarkAsRead(reading_time_val,id)} href="#" className='mark-read'>Mark as read</a>
         </div>
     );
 };

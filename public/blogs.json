@@ -7,6 +7,7 @@
       "author_img": "https://i.ibb.co.com/TTxP79H/leong-ying-7107120-640.png",
       "posted_date": "2024-11-01",
       "reading_time": "8 min read",
+      "reading_time_val": 8,
       "hashtags": ["#time", "#philosophy", "#fiction"]
     },
     {
@@ -17,6 +18,7 @@
       "author_img": "https://i.ibb.co.com/Rv1Jg05/writer-8925722-640.png",
       "posted_date": "2024-10-25",
       "reading_time": "5 min read",
+      "reading_time_val": 5,
       "hashtags": ["#cooking", "#recipes", "#easymeals"]
     },
     {
@@ -27,6 +29,7 @@
       "author_img": "https://i.ibb.co.com/JC6pQ8D/entrepreneur-593358-640.jpg",
       "posted_date": "2024-11-15",
       "reading_time": "12 min read",
+      "reading_time_val": 12,
       "hashtags": ["#coding", "#tech", "#programming"]
     },
     {
@@ -37,6 +40,7 @@
       "author_img": "https://i.ibb.co.com/grTd2tx/ai-generated-8663299-640.png",
       "posted_date": "2024-10-30",
       "reading_time": "7 min read",
+      "reading_time_val": 7,
       "hashtags": ["#mindfulness", "#wellness", "#selfcare"]
     },
     {
@@ -47,6 +51,7 @@
       "author_img": "https://i.ibb.co.com/72gBRf9/employee-4604126-640.jpg",
       "posted_date": "2024-11-10",
       "reading_time": "10 min read",
+      "reading_time_val": 10,
       "hashtags": ["#space", "#science", "#astronomy"]
     }
   ]
